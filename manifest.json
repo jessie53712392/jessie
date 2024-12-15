@@ -1,0 +1,17 @@
+{
+    "name": "JokeZone API",
+    "short_name": "JokeZone",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "./HTML2/attachment-njmemeboy2.jpg",
+        "sizes": "72x72",
+        "type": "image/jpg"
+      }
+    ],
+    "background_color": "#ddd",
+    "theme_color": "#333"
+}
+      
+  
